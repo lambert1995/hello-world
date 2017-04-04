@@ -1,2 +1,3 @@
 # hello-world
-temporary for tutorial
+
+Just for testing the functions of github! Thanks a lot.
